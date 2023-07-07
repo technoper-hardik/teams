@@ -1,9 +1,10 @@
 # teams
 
-- Joy
-- Hazrat
-- Fahad
-- Ronodip
-- Hardik
+- Joy M
+- Hazrat A
+- Hardik M
+- Amandeep Singh
+- Fahad B
+- Ronodip B
 
-New teams are here
+All are present
